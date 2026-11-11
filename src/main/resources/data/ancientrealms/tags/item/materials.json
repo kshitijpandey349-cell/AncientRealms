@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "ancientrealms:mythril_ingot",
+    "ancientrealms:orichalcum_ingot",
+    "ancientrealms:adamantite_ingot",
+    "ancientrealms:cobalt_ingot",
+    "ancientrealms:titanium_ingot",
+    "ancientrealms:silver_ingot",
+    "ancientrealms:ruby",
+    "ancientrealms:sapphire",
+    "ancientrealms:topaz",
+    "ancientrealms:dragonstone",
+    "ancientrealms:froststeel_ingot",
+    "ancientrealms:emberite_ingot",
+    "ancientrealms:storm_crystal",
+    "ancientrealms:void_shard",
+    "ancientrealms:aetherium_ingot",
+    "ancientrealms:ancient_gold_ingot",
+    "ancientrealms:moonstone"
+  ]
+}

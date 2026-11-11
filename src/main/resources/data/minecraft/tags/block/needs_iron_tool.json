@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "ancientrealms:mythril_ore",
+    "ancientrealms:orichalcum_ore",
+    "ancientrealms:cobalt_ore",
+    "ancientrealms:titanium_ore",
+    "ancientrealms:silver_ore",
+    "ancientrealms:ruby_ore",
+    "ancientrealms:sapphire_ore",
+    "ancientrealms:topaz_ore",
+    "ancientrealms:dragonstone_ore",
+    "ancientrealms:emberite_ore",
+    "ancientrealms:froststeel_ore",
+    "ancientrealms:storm_crystal_ore",
+    "ancientrealms:ancient_gold_ore"
+  ]
+}

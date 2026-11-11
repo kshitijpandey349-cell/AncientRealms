@@ -27,11 +27,11 @@ On Linux/macOS:
 gradle build
 ```
 
-The repository contains the wrapper distribution configuration. Generate the platform wrapper scripts and wrapper JAR once with `gradle wrapper --gradle-version 9.8.2`, then use `gradlew.bat build` on Windows or `./gradlew build` on Linux/macOS.
+The repository includes the Gradle wrapper JAR and distribution configuration. The launch scripts (`gradlew` and `gradlew.bat`) still need to be generated once with `gradle wrapper --gradle-version 9.8.2`. After that, use `gradlew.bat build` on Windows or `./gradlew build` on Linux/macOS.
 
 ## Data generation
 
-Data generation is enabled in `build.gradle`. After generating the Gradle run configurations, use the `runDatagen` task. Generated files are written under `src/main/generated`.
+Data generation is part of the Phase 1 implementation plan but is not wired up yet. The `runDatagen` task will be documented here once its entrypoint and providers are implemented.
 
 ## Project rules
 

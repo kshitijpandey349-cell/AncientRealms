@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "ancientrealms:dragonstone_ore"
+  },
+  "result": {
+    "id": "ancientrealms:dragonstone",
+    "count": 1
+  },
+  "experience": 0.7,
+  "cookingtime": 200
+}
